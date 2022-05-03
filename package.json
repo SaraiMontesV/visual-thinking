@@ -1,0 +1,19 @@
+{
+  "name": "visual-thinking",
+  "version": "1.0.0",
+  "description": "Este proyecto fue realizado durante LaunchX en mission backend con Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaraiMontesV/visual-thinking.git"
+  },
+  "author": "Sarai Montes de Oca Vargas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaraiMontesV/visual-thinking/issues"
+  },
+  "homepage": "https://github.com/SaraiMontesV/visual-thinking#readme"
+}
