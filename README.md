@@ -44,7 +44,7 @@ npm run linter
 
 # Documentación del API
 
-La documentación de cada endpoint la encuentras [aquí](https://app.swaggerhub.com/apis/SaraiMontesV/Visual-Thinking/1.0.0). Encontrarás ejemplos de cómo usarla y la descripción de los datos del response.
+La documentación de cada endpoint la encuentras [aquí](https://app.swaggerhub.com/apis-docs/SaraiMontesV/Visual-Thinking/1.0.0). Encontrarás ejemplos de cómo usarla y la descripción de los datos del response.
 
 El endpoint para consultar todos los estudiantes con todos sus campos es:
 
