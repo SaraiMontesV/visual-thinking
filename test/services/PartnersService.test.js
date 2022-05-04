@@ -20,4 +20,9 @@ describe("Unit test for Partner Service", () => {
       })
     );
   });
+
+  test("3) Get all emails not to be null", ()=>{
+    const allEmails = PartnersService.getEmailsWithCertification(students);
+    expect(allEmails).not.toBeNull();
+  })
 });
