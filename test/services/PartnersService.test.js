@@ -21,8 +21,13 @@ describe("Unit test for Partner Service", () => {
     );
   });
 
-  test("3) Get all emails not to be null", ()=>{
+  test("3) Get all emails not to be null", () => {
     const allEmails = PartnersService.getEmailsWithCertification(students);
     expect(allEmails).not.toBeNull();
-  })
+  });
+
+  test("4) Get students with credits up to 500", () => {
+    const creditsUpTo500 = PartnersService.getCreditsUpTo500(students);
+    expect(creditsUpTo500).not.toBeNull();
+  });
 });
