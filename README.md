@@ -44,6 +44,20 @@ npm run linter
 
 # Documentación del API
 
+La documentación de cada endpoint la encuentras [aquí](https://app.swaggerhub.com/apis/SaraiMontesV/Visual-Thinking/1.0.0). Encontrarás ejemplos de cómo usarla y la descripción de los datos del response.
+
+El endpoint para consultar todos los estudiantes con todos sus campos es:
+
+`/v1/students`
+
+El endpoint para consultar los emails de todos los estudiantes que tengan certificación `haveCertification` es:
+
+`/v1/students/emails`
+
+El endpoint para consultar todos los estudiantes que tengan credits mayor a 500 es:
+
+`/v1/students/credits`
+
 
 # Demostración
 
