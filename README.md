@@ -39,8 +39,11 @@ npm run linter
 #  Dependencias
 
 - Express | Para la creación del servidor. Es un framework que nos ayudará al desarrollo de los endpoints.
+  Puedes revisar su información aquí: [ExpressJS](https://www.npmjs.com/package/express)
 - ESLint | Para el estilo y estrutura del código. Homogeneiza la escritura y mejora la legibilidad.
+  Puedes revisar su información aquí: [Eslint](https://www.npmjs.com/package/eslint)
 - Jest | Para crear y ejecutar pruebas unitarias.
+  Puedes revisar su información aquí: [Jest](https://www.npmjs.com/package/jest)
 
 # Documentación del API
 
